@@ -4,4 +4,4 @@
 This is a single page CV of Nobuteru Mamiya.  
 間宮暢輝のプロフィールです。
 
-nbtrnx.github.io/single-page-cv/
+https://roadmap.sh/projects/single-page-cv
